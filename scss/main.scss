@@ -3,7 +3,7 @@ $white-text: rgba(255,255,255,.98);
 $blue-text: #0008ff;
 body{
   background-color: $deep-grey;
-  color:$white-text;
+  background:$white-text;
 }
 p {
   color:$blue-text;
